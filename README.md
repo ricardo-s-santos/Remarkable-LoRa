@@ -5,4 +5,5 @@ https://remarkable.ulusofona.pt
 Ricardo S. Santos\
 Slavisa Tomic\
 João P. Matos-Carvalho\
+Tomás Carvalho\
 © Copelabs 2025
